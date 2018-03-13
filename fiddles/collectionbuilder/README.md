@@ -10,3 +10,4 @@
 * tooltips and instructions
 * split JS file into multiple files
 * standardise to JSON rather than XML responses
+* view list of saved queries?
